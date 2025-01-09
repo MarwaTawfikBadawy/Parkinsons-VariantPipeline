@@ -1,1 +1,1 @@
-![Pipeline_Workflow](./Figure_1.png)
+![Pipeline_Workflow](./Pipeline_Workflow.png)
