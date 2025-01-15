@@ -8,5 +8,6 @@ Results: Novel variant percentages were detected in the analyzed prodromal subgr
 
 Conclusions: Genetic biomarkers are crucial for the early detection of Parkinson's disease and its prodromal stage. The novel PD genes detected in prodromal patients could aid in the use of gene biomarkers for early diagnosis of the prodromal stage without relying only on phenotypic traits.
 
-You find the full article online PMID: 38732343 PMCID: PMC11083733 DOI: 10.3390/diagnostics14090929
+### You find the full article online PMID: 38732343 PMCID: PMC11083733 DOI: 10.3390/diagnostics14090929
+
 ![Pipeline_Workflow](./Pipeline_Workflow.png)
