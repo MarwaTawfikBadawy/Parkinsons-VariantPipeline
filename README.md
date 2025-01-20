@@ -11,6 +11,7 @@ Conclusions: Genetic biomarkers are crucial for the early detection of Parkinson
 ### You can find the full research article online here: 
 https://doi.org/10.3390/diagnostics14090929
 
+Figure 1. Pipeline workflow diagram for the genomic variation analysis. This pipeline takes gVCF files as input and performs the following analyses: convert gVCF to VCF, variant quality control, extract summary of all variants in each chromosome, merge VCF filtered files, variant annotation, pathway analysis, and disease association.
 
 ![Pipeline_Workflow](./Pipeline_Workflow.png)
 
