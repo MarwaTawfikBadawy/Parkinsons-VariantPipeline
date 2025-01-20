@@ -21,5 +21,7 @@ Table 1. General statistics of the variation analysis results for the healthy co
 
 ![General_Statistics](https://github.com/user-attachments/assets/a56e349c-8e3c-4cdc-ba01-dca63b3a4dfd)
 
+Figure 3. (A) Pie chart visualization of the most severe variant consequences, (B) pie chart visualization of the variant classes, and (C) bar plot visualization of variants by chromosome for each population. Pie charts and bar plots were generated using the ensemble VEP tool.
+
 ![image](https://github.com/user-attachments/assets/926b807f-e622-4cf4-ba93-6b4dbc180599)
 
