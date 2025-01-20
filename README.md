@@ -13,3 +13,10 @@ https://doi.org/10.3390/diagnostics14090929
 
 
 ![Pipeline_Workflow](./Pipeline_Workflow.png)
+
+
+This study was based on annotation, biological pathway, and disease association analyses of prodromal patients with PD. We detected the percentages and types of variation in each population with their percentile on each chromosome alongside the novel/existing variants percentages, as shown in Table 1. 
+
+Table 1. General statistics of the variation analysis results for the healthy control (HC) (male and female), prodromal PD (genetic male and female), prodromal PD (RBD male and female), and prodromal PD (hyposmia male and female) populations.
+
+![General_Statistics](https://github.com/user-attachments/assets/a56e349c-8e3c-4cdc-ba01-dca63b3a4dfd)
