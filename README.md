@@ -20,3 +20,6 @@ This study was based on annotation, biological pathway, and disease association 
 Table 1. General statistics of the variation analysis results for the healthy control (HC) (male and female), prodromal PD (genetic male and female), prodromal PD (RBD male and female), and prodromal PD (hyposmia male and female) populations.
 
 ![General_Statistics](https://github.com/user-attachments/assets/a56e349c-8e3c-4cdc-ba01-dca63b3a4dfd)
+
+![image](https://github.com/user-attachments/assets/926b807f-e622-4cf4-ba93-6b4dbc180599)
+
