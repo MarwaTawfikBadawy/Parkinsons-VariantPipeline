@@ -21,7 +21,7 @@ Figure 3. (A) Pie chart visualization of the most severe variant consequences, (
 
 ![image](https://github.com/user-attachments/assets/926b807f-e622-4cf4-ba93-6b4dbc180599)
 
-This study was based on annotation, biological pathway, and disease association analyses of prodromal patients with PD. We detected the percentages and types of variation in each population with their percentile on each chromosome alongside the novel/existing variants percentages, as shown in Table 1 here. 
+This study was based on annotation, biological pathway, and disease association analyses of prodromal patients with PD. We detected the percentages and types of variation in each population with their percentile on each chromosome alongside the novel/existing variants percentages, as shown in Table 1. 
 
 Table 1. General statistics of the variation analysis results for the healthy control (HC) (male and female), prodromal PD (genetic male and female), prodromal PD (RBD male and female), and prodromal PD (hyposmia male and female) populations.
 
