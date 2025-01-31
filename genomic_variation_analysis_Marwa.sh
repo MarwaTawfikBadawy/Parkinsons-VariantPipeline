@@ -8,6 +8,7 @@ while getopts i:g:o:m:r:t: OPTION
 do
 case "${OPTION}"
 in
+
 # Input directory
 i) INPUT=${OPTARG};;
 # Reference genome
