@@ -1,5 +1,4 @@
 # Novel Variants Linked to the Prodromal Stage of Parkinson's Disease (PD) Patients
-Diagnostics Journal
 
 Background and objective: The symptoms of most neurodegenerative diseases, including Parkinson's disease (PD), usually do not occur until substantial neuronal loss occurs. This makes the process of early diagnosis very challenging. Hence, this research used variant call format (VCF) analysis to detect variants and novel genes that could be used as prognostic indicators in the early diagnosis of prodromal PD.
 
