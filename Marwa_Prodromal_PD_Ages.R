@@ -39,7 +39,6 @@ Marwa_HC <- read_excel("/Users/mahamarwatawfik/WGS_gVCF/PPMI_Study/Data_Ages/Mar
 names(Marwa_HC)
 ```
 
-
 ```{r}
 group_by(Marwa_HC)
 ```
