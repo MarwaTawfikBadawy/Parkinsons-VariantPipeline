@@ -35,7 +35,6 @@ library(readxl)
 Marwa_HC <- read_excel("/Users/mahamarwatawfik/WGS_gVCF/PPMI_Study/Data_Ages/Marwa_HC_Data.xlsx")
 ```
 
-
 ```{r}
 names(Marwa_HC)
 ```
