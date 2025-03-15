@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+
 SCRIPT="Genomic Variation Analysis - v1.0 (Dec 21, 2023)"
 
 ## Command line options
