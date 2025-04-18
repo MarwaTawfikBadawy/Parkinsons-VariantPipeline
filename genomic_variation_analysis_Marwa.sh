@@ -2,6 +2,7 @@
 
 SCRIPT="Genomic Variation Analysis - v1.0 (Dec 21, 2023)"
 
+
 ## Command line options
 ## -----------------------------------------------------------------------------
 while getopts i:g:o:m:r:t: OPTION
